@@ -1,4 +1,4 @@
-import About from "./components/about.jsx"
+import About from "./components/About.jsx"
 import Header from "./components/Header.jsx"
 import Projects from "./components/projects.jsx"
 import Testimonials from "./components/Testimonials.jsx"
