@@ -18,7 +18,7 @@ This project highlights my skills in:
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, React Router  
-- **Styling:** Tailwind CSS / Shadcn UI (or CSS framework you used)  
+- **Styling:** Tailwind CSS   
 - **Version Control:** Git & GitHub  
 - **Deployment:** Vercel  
 
